@@ -1,0 +1,8 @@
+# for VisualStudio
+
+*/*.user
+.vs/*
+
+# for build artifacts
+*/x64/Debug/*
+*/x64/Release/*
